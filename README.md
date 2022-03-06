@@ -1,4 +1,4 @@
-# <img src="img/uaflag.jpg" height="20px"> SIDD (Simple Image DeDuplication)
+# <img src="img/uaflag.jpg" height="20px"> Python - SIDD (Simple Image DeDuplication)
 
 
  
