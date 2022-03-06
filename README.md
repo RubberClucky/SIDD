@@ -2,7 +2,7 @@
 
 
  
-A small python library designed with a simple goal. This tool was originally designed to support the Ukrainian IT Army and activist efforts to subvert the Russian misinformation campigns. Some projects required automation to help filter through media that was being collected. Hence this was born. This library is a more refined approach than the original that was delivered, and I personally hope they find this new implementation helpful. Слава Україні
+A small python library designed with a simple goal. To compare a bunch of images and find duplicates. This tool was originally designed to support the Ukrainian IT Army and activist efforts to subvert the Russian misinformation campigns. Some projects required automation to help filter through media that was being collected. Hence this was born. This library is a more refined approach than the original that was delivered, and I personally hope they find this new implementation helpful. Слава Україні
 
 -------------------------------------------------------------------  
 
