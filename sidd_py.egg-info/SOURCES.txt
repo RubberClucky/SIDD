@@ -1,0 +1,10 @@
+LICENSE
+README.rst
+setup.py
+sidd-py/__init__.py
+sidd-py/sidd.py
+sidd_py.egg-info/PKG-INFO
+sidd_py.egg-info/SOURCES.txt
+sidd_py.egg-info/dependency_links.txt
+sidd_py.egg-info/requires.txt
+sidd_py.egg-info/top_level.txt
